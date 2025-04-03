@@ -878,7 +878,7 @@ theme_button.grid(row=row, column=0, columnspan=3, padx=5, pady=10, sticky="ew")
 
 # --- Credit Label ---
 credit_label = tk.Label(main_frame,
-                        text="Credit: MMDC IT Students: Orcullo, Claros C., Diaz, David Algerico & Mercado, Jan Thadeus",
+                        text="Credit: MMDC IT Students: Orcullo, Claros C., Diaz, David Algerico, Mercado, Jan Thadeus & Enhance by GEMINI 2.5",
                         font=credit_font, bg='#F5F5F5', fg='#555555', justify=tk.LEFT)
 # Pack at the bottom of the main_frame, after buttons
 credit_label.pack(side=tk.BOTTOM, pady=(10, 5), anchor='w', padx=10)
